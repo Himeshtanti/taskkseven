@@ -1,0 +1,236 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:display=swap');
+
+  *{
+    font-family: 'Roboto', sans-serif;
+  }
+
+.header{
+    margin: 0px 15px;
+}
+
+.link-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon-link{
+    text-decoration: none;
+}
+
+.button{
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+    gap: 0px 10px;
+}
+
+.btncolor{
+    border: none;
+    padding: 10px 13px;
+    background: blue;
+    color: white;
+    border-radius: 5px;
+}
+.herosection{
+    display: flex;
+}
+
+.input-icons {
+    width: 25rem;
+    margin-bottom: 10px;
+}
+
+.input-icons i {
+    position: absolute;
+}
+
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+
+.input-field {
+    width: 90%;
+    padding: 10px;
+    text-align: center;
+}
+
+.herobtn{
+    border: none;
+    height: 40px;
+    width: 200px;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+}
+
+.container{
+    margin: 0px 20px;
+
+}
+
+.hero-main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90vw;
+}
+
+.left-hero-box{
+    width: 50%;
+}
+
+.envelope{
+    border: none;   
+
+}
+
+.hero-img{
+    width: 40vw;
+    height: 50vh;
+}
+
+.container{
+    margin: 20px;
+}
+
+.working-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-btn{
+    border: none;
+    text-decoration: none;
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+.enjoy{
+height: 200px 200px;
+}
+
+.Enjoy-your-works{
+    margin: 40px;
+}
+
+.container{
+    margin: 20px;
+}
+
+.get-tool{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btntools{
+    word-wrap: break-word;
+
+    border: none;
+    background-color: white;
+}
+
+.cyber-web{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.hero-type{
+    padding: 100px;
+    height: 150px;
+    text-align: right;
+    background-color: pink violet;
+}
+
+.BUTTON{
+    background: none;
+    border: none;
+    text-decoration: auto;
+    color: #ffffff;
+}
+
+.hero-type{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('./balloons.webp');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+}
+
+.container{
+    margin: 20px;
+}
+
+.hero-improve{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20rem;
+}
+
+.btn{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.butoon-check{
+    border: none;
+    background-color: #ffffff;
+    color: blue;
+}
+
+.bi{
+    color: blue;
+}
+
+.Join-today{
+    padding: 100px;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.349)), url('./balloons.webp');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    text-align: center;
+}
+
+.resurce{
+    padding: 5px 50px;
+}
+
+.Plan{
+    padding: 5px 50px;
+}
+
+.Design{
+    padding: 5px 50px;
+}
+
+.sign-up{
+    background-color: blue;
+    color: white;
+    padding: 10px 25px;
+}
+
+.bi-arrow-right-short{
+    color: white;
+}
+
+.footer{
+    margin: 20px;
+}
+
+.awosome-footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.button-foot{
+    border: none;
+}
